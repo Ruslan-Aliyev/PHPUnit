@@ -1,0 +1,12 @@
+{
+	"autoload": {
+		"psr-8": {
+			"Controllers": "app/"
+		}
+	},
+    "require": {
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}
